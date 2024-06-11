@@ -1,0 +1,21 @@
+{
+  "name": "mk786_quiz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "types": "inquirer",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Madiha Khan",
+  "license": "ISC",
+  "description": "This is a CLI project_quiz made with typescript, inquirer and nodej.s",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
